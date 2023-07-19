@@ -14,6 +14,7 @@ The following represents a selection of my kaggle notebooks
 
 * [Filtering outliers using the Isolation Forest](https://www.kaggle.com/code/carlmcbrideellis/filtering-outliers-using-the-isolation-forest)
 * [Data anonymization using Faker (Titanic example)](https://www.kaggle.com/carlmcbrideellis/data-anonymization-using-faker-titanic-example)
+* [AWS PyDeequ unit tests to measure data quality](https://www.kaggle.com/code/carlmcbrideellis/aws-pydeequ-unit-tests-to-measure-data-quality)
 
 #  <center style="background-color:Gainsboro; width:80%;">  3. baselines</center>
 An important practice is to create a baseline with which to compare future work against:
@@ -44,16 +45,12 @@ This is a collection of my python example scripts for either classification, usi
 | :--- | --- | --- |
 | Logistic regression | [link](https://www.kaggle.com/carlmcbrideellis/titanic-explainability-why-me-asks-miss-doyle) | --- |
 | Generalized Additive Models (GAM) | [link](https://www.kaggle.com/carlmcbrideellis/classification-using-generalized-additive-models) | --- |
-| Support Vector Machines (SVM) | [link](https://www.kaggle.com/carlmcbrideellis/support-vector-classifier-minimalist-script) | --- |
 | Iterative Dichotomiser 3 (ID3) | [link](https://www.kaggle.com/carlmcbrideellis/titanic-using-the-iterative-dichotomiser-3-id3) | --- |
 | Decision tree| [link](https://www.kaggle.com/carlmcbrideellis/titanic-some-sex-a-bit-of-class-and-a-tree) | --- |
-| Random forest | [link](https://www.kaggle.com/carlmcbrideellis/beginners-random-forest-classifier-script) | [link](https://www.kaggle.com/carlmcbrideellis/random-forest-regression-minimalist-script) |
 | Regularized Greedy Forest (RGF) | [link](https://www.kaggle.com/carlmcbrideellis/introduction-to-the-regularized-greedy-forest) | [link](https://www.kaggle.com/carlmcbrideellis/introduction-to-the-regularized-greedy-forest) |
-| Gradient boosting: XGBoost | [link](https://www.kaggle.com/carlmcbrideellis/xgboost-classification-minimalist-python-script) | [link](https://www.kaggle.com/carlmcbrideellis/an-introduction-to-xgboost-regression)|
-| Gradient boosting: CatBoost | --- | [link](https://www.kaggle.com/carlmcbrideellis/catboost-regression-minimalist-script)|
-| Histogram gradient boosting | [link](https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-classifier-example) | [link](https://www.kaggle.com/carlmcbrideellis/histogram-gradient-boosting-regression-example) |
+| Gradient boosting: XGBoost | --- | [link](https://www.kaggle.com/carlmcbrideellis/an-introduction-to-xgboost-regression)|
 | TabNet | [link](https://www.kaggle.com/carlmcbrideellis/tabnet-simple-binary-classification-example) | [link](https://www.kaggle.com/carlmcbrideellis/tabnet-a-very-simple-regression-example) |
-| Neural networks (using keras) | [link](https://www.kaggle.com/carlmcbrideellis/very-simple-neural-network-for-classification) | [link](https://www.kaggle.com/carlmcbrideellis/very-simple-neural-network-regression) |
+| Neural networks (using keras) | [link](https://www.kaggle.com/carlmcbrideellis/tabular-classification-with-neural-networks-keras) | [link](https://www.kaggle.com/carlmcbrideellis/very-simple-neural-network-regression) |
 | Gaussian process | [link](https://www.kaggle.com/carlmcbrideellis/gaussian-process-classification-sample-script) | [link](https://www.kaggle.com/carlmcbrideellis/gaussian-process-regression-sample-script) |
 | Hyperparameter grid search | [link](https://www.kaggle.com/carlmcbrideellis/hyperparameter-grid-search-sample-code) | [link](https://www.kaggle.com/carlmcbrideellis/hyperparameter-grid-search-simple-example) |
 
@@ -61,7 +58,6 @@ This is a collection of my python example scripts for either classification, usi
 * [Titanic in pure H2O.ai](https://www.kaggle.com/carlmcbrideellis/titanic-in-pure-h2o-ai)
 * [Predict house prices using H2O.ai (regression)](https://www.kaggle.com/carlmcbrideellis/predict-house-prices-using-h2o-ai-regression)
 * [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
-* [Tabular binary classification with neural networks: Keras](https://www.kaggle.com/carlmcbrideellis/tabular-classification-with-neural-networks-keras)
 * [Automatic tuning of XGBoost with XGBTune](https://www.kaggle.com/carlmcbrideellis/automatic-tuning-of-xgboost-with-xgbtune)
 * [MNIST with no neural network](https://www.kaggle.com/carlmcbrideellis/mnist-with-no-neural-network)
 * [PyTorch Tabular: Gated Additive Tree Ensemble](https://www.kaggle.com/code/carlmcbrideellis/pytorch-tabular-gated-additive-tree-ensemble)
@@ -117,6 +113,7 @@ This is a collection of my python example scripts for either classification, usi
 * [Extrapolation: Do not stray out of the forest!](https://www.kaggle.com/carlmcbrideellis/extrapolation-do-not-stray-out-of-the-forest)
 * [Titanic: some sex, a bit of class, and a tree...](https://www.kaggle.com/carlmcbrideellis/titanic-some-sex-a-bit-of-class-and-a-tree)
 * [The Lehmer RNG algorithm for `seed=42`](https://www.kaggle.com/code/carlmcbrideellis/the-lehmer-rng-algorithm-for-seed-42)
+* [Pearson correlation coefficient, mutual information (MI) and Predictive Power Score (PPS)](https://www.kaggle.com/code/carlmcbrideellis/pearson-mutual-information-and-predictive-power) - a simple comparison
 
 
 #  <center style="background-color:Gainsboro; width:80%;"> 12. miscellaneous </center>
@@ -130,6 +127,7 @@ This is a collection of my python example scripts for either classification, usi
 * [How much do people on kaggle earn by country (2021)](https://www.kaggle.com/carlmcbrideellis/how-much-do-people-on-kaggle-earn-by-country-2021)
 * [All in a pickle: Saving the Titanic](https://www.kaggle.com/carlmcbrideellis/all-in-a-pickle-saving-the-titanic) - Saving our machine learning model to a file using pickle
 * [StableDiffusion: text-to-image with KerasCV](https://www.kaggle.com/code/carlmcbrideellis/stablediffusion-text-to-image-with-kerascv)
+* [Machine learning review papers on arXiv [polars]](https://www.kaggle.com/code/carlmcbrideellis/machine-learning-review-papers-on-arxiv-polars)
 
 **Geospatial analysis**
 * [Choropleth map of kaggle Grandmaster locations](https://www.kaggle.com/carlmcbrideellis/choropleth-map-of-kaggle-grandmaster-locations)
