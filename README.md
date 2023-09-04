@@ -15,6 +15,7 @@ The following represents a selection of my kaggle notebooks
 * [Filtering outliers using the Isolation Forest](https://www.kaggle.com/code/carlmcbrideellis/filtering-outliers-using-the-isolation-forest)
 * [Data anonymization using Faker (Titanic example)](https://www.kaggle.com/carlmcbrideellis/data-anonymization-using-faker-titanic-example)
 * [AWS PyDeequ unit tests to measure data quality](https://www.kaggle.com/code/carlmcbrideellis/aws-pydeequ-unit-tests-to-measure-data-quality)
+* [Naïve Dataset Distillation](https://www.kaggle.com/code/carlmcbrideellis/ps-s3-e21-na-ve-dataset-distillation)
 
 #  <center style="background-color:Gainsboro; width:80%;">  3. baselines</center>
 An important practice is to create a baseline with which to compare future work against:
@@ -32,6 +33,7 @@ An important practice is to create a baseline with which to compare future work 
 * [Feature selection using the Boruta-SHAP package](https://www.kaggle.com/carlmcbrideellis/feature-selection-using-the-boruta-shap-package)
 * [Recursive Feature Elimination (RFE) example](https://www.kaggle.com/carlmcbrideellis/recursive-feature-elimination-rfe-example)
 * [House Prices: Permutation Importance example](https://www.kaggle.com/carlmcbrideellis/house-prices-permutation-importance-example)
+* [SHAP Permutation explainer + random "probe"](https://www.kaggle.com/code/carlmcbrideellis/shap-permutation-explainer-random-probe)
 * [What is Adversarial Validation?](https://www.kaggle.com/carlmcbrideellis/what-is-adversarial-validation)
 * [Jane Street: t-SNE using RAPIDS cuML](https://www.kaggle.com/carlmcbrideellis/jane-street-t-sne-using-rapids-cuml)
 * [Synthanic feature engineering: Beware!](https://www.kaggle.com/carlmcbrideellis/synthanic-feature-engineering-beware)
@@ -57,10 +59,14 @@ This is a collection of my python example scripts for either classification, usi
 * [Classification using TensorFlow Decision Forests](https://www.kaggle.com/carlmcbrideellis/classification-using-tensorflow-decision-forests)
 * [Titanic in pure H2O.ai](https://www.kaggle.com/carlmcbrideellis/titanic-in-pure-h2o-ai)
 * [Predict house prices using H2O.ai (regression)](https://www.kaggle.com/carlmcbrideellis/predict-house-prices-using-h2o-ai-regression)
-* [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
 * [Automatic tuning of XGBoost with XGBTune](https://www.kaggle.com/carlmcbrideellis/automatic-tuning-of-xgboost-with-xgbtune)
 * [MNIST with no neural network](https://www.kaggle.com/carlmcbrideellis/mnist-with-no-neural-network)
 * [PyTorch Tabular: Gated Additive Tree Ensemble](https://www.kaggle.com/code/carlmcbrideellis/pytorch-tabular-gated-additive-tree-ensemble)
+
+### Prediction intervals
+* [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
+* [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
+
 
 
 #  <center style="background-color:Gainsboro; width:80%;">  6. time series and forecasting</center>
@@ -71,7 +77,6 @@ This is a collection of my python example scripts for either classification, usi
 * [LSTM time series + stock price prediction = FAIL](https://www.kaggle.com/carlmcbrideellis/lstm-time-series-stock-price-prediction-fail)
 * [Interrupted time series analysis: Causal Impact](https://www.kaggle.com/carlmcbrideellis/interrupted-time-series-analysis-causal-impact)
 * [Temporal Convolutional Network using Keras-TCN](https://www.kaggle.com/carlmcbrideellis/temporal-convolutional-network-using-keras-tcn)
-* [Probabilistic forecasting using GluonTS: Bitcoin](https://www.kaggle.com/carlmcbrideellis/probabilistic-forecasting-using-gluonts-bitcoin)
 * [Plotting OHLC and V ticker data using mplfinance](https://www.kaggle.com/carlmcbrideellis/plotting-ohlc-and-v-ticker-data-using-mplfinance)
 * [Correlograms of 14 cryptocurrencies (1 day)](https://www.kaggle.com/carlmcbrideellis/correlograms-of-14-cryptocurrencies-1-day)
 * [Granger causality testing for 1 day](https://www.kaggle.com/carlmcbrideellis/granger-causality-testing-for-1-day) along with [Granger causality Part II: The Movie](https://www.kaggle.com/carlmcbrideellis/granger-causality-part-ii-the-movie)
@@ -79,6 +84,11 @@ This is a collection of my python example scripts for either classification, usi
 * [TPS Jan 2022: A simple average model (no ML)](https://www.kaggle.com/carlmcbrideellis/tps-jan-2022-a-simple-average-model-no-ml)
 * [TPS Jan 2022: Prophet + holidays + GDP regressor](https://www.kaggle.com/carlmcbrideellis/tps-jan-2022-prophet-holidays-gdp-regressor)
 * [Multivariate time series forecasting: Linear tree](https://www.kaggle.com/code/carlmcbrideellis/multivariate-time-series-forecasting-linear-tree)
+
+### Prediction intervals
+* [Probabilistic forecasting using GluonTS: Bitcoin](https://www.kaggle.com/carlmcbrideellis/probabilistic-forecasting-using-gluonts-bitcoin)
+
+
 
 # <center style="background-color:Gainsboro; width:80%;">  7. ensemble methods </center>
 
