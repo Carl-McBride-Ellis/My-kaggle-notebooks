@@ -63,13 +63,15 @@ This is a collection of my python example scripts for either classification, usi
 * [MNIST with no neural network](https://www.kaggle.com/carlmcbrideellis/mnist-with-no-neural-network)
 * [PyTorch Tabular: Gated Additive Tree Ensemble](https://www.kaggle.com/code/carlmcbrideellis/pytorch-tabular-gated-additive-tree-ensemble)
 
-### Prediction intervals
-* [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
+
+#  <center style="background-color:Gainsboro; width:80%;">  6. conformal prediction</center>
+
 * [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
+* [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
+* [Classifier probability calibration using Venn-ABERS predictors](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers)
 
 
-
-#  <center style="background-color:Gainsboro; width:80%;">  6. time series and forecasting</center>
+#  <center style="background-color:Gainsboro; width:80%;">  7. time series and forecasting</center>
 
 * [Time series: A simple moving average (MA) model](https://www.kaggle.com/carlmcbrideellis/time-series-a-simple-moving-average-ma-model)
 * [Time series decomposition: Naive example](https://www.kaggle.com/carlmcbrideellis/time-series-decomposition-naive-example)
@@ -83,20 +85,20 @@ This is a collection of my python example scripts for either classification, usi
 * [Store Sales: Day of the Week model](https://www.kaggle.com/carlmcbrideellis/store-sales-day-of-the-week-model)
 * [TPS Jan 2022: A simple average model (no ML)](https://www.kaggle.com/carlmcbrideellis/tps-jan-2022-a-simple-average-model-no-ml)
 * [TPS Jan 2022: Prophet + holidays + GDP regressor](https://www.kaggle.com/carlmcbrideellis/tps-jan-2022-prophet-holidays-gdp-regressor)
-* [Multivariate time series forecasting: Linear tree](https://www.kaggle.com/code/carlmcbrideellis/multivariate-time-series-forecasting-linear-tree)
+* [Multivariable time series forecasting: Linear tree](https://www.kaggle.com/code/carlmcbrideellis/multivariable-time-series-forecasting-linear-tree)
 
 ### Prediction intervals
 * [Probabilistic forecasting using GluonTS: Bitcoin](https://www.kaggle.com/carlmcbrideellis/probabilistic-forecasting-using-gluonts-bitcoin)
 
 
 
-# <center style="background-color:Gainsboro; width:80%;">  7. ensemble methods </center>
+# <center style="background-color:Gainsboro; width:80%;">  8. ensemble methods </center>
 
 * [Ensemble methods: majority voting example](https://www.kaggle.com/carlmcbrideellis/ensemble-methods-majority-voting-example)
 * [ML-Ensemble example using House Prices data](https://www.kaggle.com/carlmcbrideellis/ml-ensemble-example-using-house-prices-data)
 * [Stacking ensemble using the House Prices data](https://www.kaggle.com/carlmcbrideellis/stacking-ensemble-using-the-house-prices-data)
 
-# <center style="background-color:Gainsboro; width:80%;"> 8. explainability  </center>
+# <center style="background-color:Gainsboro; width:80%;"> 9. explainability  </center>
 * [Explainability, collinearity and the variance inflation factor (VIF)](https://www.kaggle.com/code/carlmcbrideellis/variance-inflation-factor-vif-and-explainability)
 * [KISS: Small and simple Titanic models](https://www.kaggle.com/carlmcbrideellis/kiss-small-and-simple-titanic-models)
 * [House Prices: my score using only 'OverallQual'](https://www.kaggle.com/carlmcbrideellis/house-prices-my-score-using-only-overallqual) and also a [simple two variable model](https://www.kaggle.com/carlmcbrideellis/simple-two-variable-model)
@@ -104,16 +106,16 @@ This is a collection of my python example scripts for either classification, usi
 * [TabNet and interpretability: Jane Street example](https://www.kaggle.com/carlmcbrideellis/tabnet-and-interpretability-jane-street-example)
 * [GPU accelerated SHAP values: Jane Street example](https://www.kaggle.com/carlmcbrideellis/gpu-accelerated-shap-values-jane-street-example)
 
-#  <center style="background-color:Gainsboro; width:80%;">  9. causality</center>
+#  <center style="background-color:Gainsboro; width:80%;">  10. causality</center>
 * [Causal Forests Double ML example using EconML](https://www.kaggle.com/carlmcbrideellis/causal-forests-double-ml-example-using-econml)
 * [Interrupted time series analysis: Causal Impact](https://www.kaggle.com/carlmcbrideellis/interrupted-time-series-analysis-causal-impact)
 
-#  <center style="background-color:Gainsboro; width:80%;"> 10. statistics </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 11. statistics </center>
 * [Animated histogram of the central limit theorem](https://www.kaggle.com/carlmcbrideellis/animated-histogram-of-the-central-limit-theorem)
 * [Hypothesis testing: The two sample t-test, p-value and power](https://www.kaggle.com/carlmcbrideellis/hypothesis-testing-the-t-test-p-values-and-power)
 * [Explainability, collinearity and the variance inflation factor (VIF)](https://www.kaggle.com/carlmcbrideellis/explainability-collinearity-and-the-vif)
 
-#  <center style="background-color:Gainsboro; width:80%;">11. didactic notebooks  </center>
+#  <center style="background-color:Gainsboro; width:80%;">12. didactic notebooks  </center>
 * [Beautiful math in your notebook](https://www.kaggle.com/carlmcbrideellis/beautiful-math-in-your-notebook): a guide to using $\LaTeX$ math markup in kaggle notebooks.
 * [Titanic: In all the confusion...](https://www.kaggle.com/carlmcbrideellis/titanic-in-all-the-confusion) which looks at the confusion matrix, ROC curves, $F_1$ scores etc.
 * [Classification: How imbalanced is "imbalanced"?](https://www.kaggle.com/carlmcbrideellis/classification-how-imbalanced-is-imbalanced) - (mentioned in ["*Notebooks of the week: Hidden Gems*"](https://www.kaggle.com/general/273618))
@@ -126,7 +128,7 @@ This is a collection of my python example scripts for either classification, usi
 * [Pearson correlation coefficient, mutual information (MI) and Predictive Power Score (PPS)](https://www.kaggle.com/code/carlmcbrideellis/pearson-mutual-information-and-predictive-power) - a simple comparison
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> 12. miscellaneous </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 13. miscellaneous </center>
 * [Titanic leaderboard: a score > 0.8 is great!](https://www.kaggle.com/carlmcbrideellis/titanic-leaderboard-a-score-0-8-is-great)
 * [House Prices: How to work offline](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline) (+ [dataset](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline))
 * [Pandas one-liners](https://www.kaggle.com/carlmcbrideellis/pandas-one-liners)
