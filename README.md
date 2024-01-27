@@ -50,7 +50,7 @@ This is a collection of my python example scripts for either classification, usi
 | Iterative Dichotomiser 3 (ID3) | [link](https://www.kaggle.com/carlmcbrideellis/titanic-using-the-iterative-dichotomiser-3-id3) | --- |
 | Decision tree| [link](https://www.kaggle.com/carlmcbrideellis/titanic-some-sex-a-bit-of-class-and-a-tree) | --- |
 | Regularized Greedy Forest (RGF) | [link](https://www.kaggle.com/carlmcbrideellis/introduction-to-the-regularized-greedy-forest) | [link](https://www.kaggle.com/carlmcbrideellis/introduction-to-the-regularized-greedy-forest) |
-| Gradient boosting: XGBoost | --- | [link](https://www.kaggle.com/carlmcbrideellis/an-introduction-to-xgboost-regression)|
+| XGBoost | --- | [link](https://www.kaggle.com/carlmcbrideellis/an-introduction-to-xgboost-regression)|
 | TabNet | [link](https://www.kaggle.com/carlmcbrideellis/tabnet-simple-binary-classification-example) | [link](https://www.kaggle.com/carlmcbrideellis/tabnet-a-very-simple-regression-example) |
 | Neural networks (using keras) | [link](https://www.kaggle.com/carlmcbrideellis/tabular-classification-with-neural-networks-keras) | [link](https://www.kaggle.com/carlmcbrideellis/very-simple-neural-network-regression) |
 | Gaussian process | [link](https://www.kaggle.com/carlmcbrideellis/gaussian-process-classification-sample-script) | [link](https://www.kaggle.com/carlmcbrideellis/gaussian-process-regression-sample-script) |
@@ -68,7 +68,8 @@ This is a collection of my python example scripts for either classification, usi
 
 * [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
 * [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
-* [Classifier probability calibration using Venn-ABERS predictors](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers)
+* [Locally-weighted conformal regression](https://www.kaggle.com/code/carlmcbrideellis/locally-weighted-conformal-regression)
+* [Classifier probability calibration using Venn-ABERS predictors](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers) (winner of the [Gabriel Preda "Best recent Kaggle Notebook" prize](https://www.kaggle.com/discussions/general/469919))
 
 
 #  <center style="background-color:Gainsboro; width:80%;">  7. time series and forecasting</center>
