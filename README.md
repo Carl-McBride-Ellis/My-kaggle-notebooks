@@ -141,6 +141,7 @@ This is a collection of my python example scripts for either classification, usi
 * [All in a pickle: Saving the Titanic](https://www.kaggle.com/carlmcbrideellis/all-in-a-pickle-saving-the-titanic) - Saving our machine learning model to a file using pickle
 * [StableDiffusion: text-to-image with KerasCV](https://www.kaggle.com/code/carlmcbrideellis/stablediffusion-text-to-image-with-kerascv)
 * [Machine learning review papers on arXiv [polars]](https://www.kaggle.com/code/carlmcbrideellis/machine-learning-review-papers-on-arxiv-polars)
+* [[Gemma] I am replacing myself with an LLM](https://www.kaggle.com/code/carlmcbrideellis/gemma-i-am-replacing-myself-with-an-llm)
 
 **Geospatial analysis**
 * [Choropleth map of kaggle Grandmaster locations](https://www.kaggle.com/carlmcbrideellis/choropleth-map-of-kaggle-grandmaster-locations)
@@ -157,6 +158,8 @@ This is a collection of my python example scripts for either classification, usi
 #  <center style="background-color:Gainsboro; width:80%;"> fun with the Meta Kaggle dataset </center>
 The [Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle) dataset consists of data regarding the kaggle site 
 * [Kaggle in numbers](https://www.kaggle.com/carlmcbrideellis/kaggle-in-numbers) - updated almost daily
+* [Simple EDA of kaggle Grandmasters](https://www.kaggle.com/code/carlmcbrideellis/simple-eda-of-kaggle-grandmasters-scheduled)  - updated almost daily
+* [Number of active Kaggle users](https://www.kaggle.com/code/carlmcbrideellis/number-of-active-kaggle-users)
 * [Notebooks: Number of views, and days, per vote](https://www.kaggle.com/carlmcbrideellis/notebooks-number-of-views-and-days-per-vote)
 * [kaggle discussions: busiest time of the day?](https://www.kaggle.com/carlmcbrideellis/kaggle-discussions-busiest-time-of-the-day) - (mentioned in ["*Notebooks of the week: Hidden Gems*"](https://www.kaggle.com/general/193544))
 * [The kaggle working week](https://www.kaggle.com/carlmcbrideellis/the-kaggle-working-week)
