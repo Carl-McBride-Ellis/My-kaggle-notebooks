@@ -90,6 +90,7 @@ This is a collection of my python example scripts for either classification, usi
 
 ### Prediction intervals
 * [Probabilistic forecasting using GluonTS: Bitcoin](https://www.kaggle.com/carlmcbrideellis/probabilistic-forecasting-using-gluonts-bitcoin)
+* [[PFI Starter] Skforecast example](https://www.kaggle.com/code/carlmcbrideellis/pfi-starter-skforecast-example) - starter notebook provided for the ["Probabilistic forecasting I: Temperature"](https://www.kaggle.com/competitions/probabilistic-forecasting-i-temperature) competition
 
 
 
@@ -129,7 +130,12 @@ This is a collection of my python example scripts for either classification, usi
 * [Pearson correlation coefficient, mutual information (MI) and Predictive Power Score (PPS)](https://www.kaggle.com/code/carlmcbrideellis/pearson-mutual-information-and-predictive-power) - a simple comparison
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> 13. miscellaneous </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 13. generative AI </center>
+* [StableDiffusion: text-to-image with KerasCV](https://www.kaggle.com/code/carlmcbrideellis/stablediffusion-text-to-image-with-kerascv)
+* [[Gemma] I am replacing myself with an LLM](https://www.kaggle.com/code/carlmcbrideellis/gemma-i-am-replacing-myself-with-an-llm)
+
+
+#  <center style="background-color:Gainsboro; width:80%;"> 14. miscellaneous </center>
 * [Titanic leaderboard: a score > 0.8 is great!](https://www.kaggle.com/carlmcbrideellis/titanic-leaderboard-a-score-0-8-is-great)
 * [House Prices: How to work offline](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline) (+ [dataset](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline))
 * [Pandas one-liners](https://www.kaggle.com/carlmcbrideellis/pandas-one-liners)
@@ -139,9 +145,7 @@ This is a collection of my python example scripts for either classification, usi
 * [Encuesta kaggle 2021: ¿España es diferente?](https://www.kaggle.com/carlmcbrideellis/encuesta-kaggle-2021-espa-a-es-diferente)
 * [How much do people on kaggle earn by country (2021)](https://www.kaggle.com/carlmcbrideellis/how-much-do-people-on-kaggle-earn-by-country-2021)
 * [All in a pickle: Saving the Titanic](https://www.kaggle.com/carlmcbrideellis/all-in-a-pickle-saving-the-titanic) - Saving our machine learning model to a file using pickle
-* [StableDiffusion: text-to-image with KerasCV](https://www.kaggle.com/code/carlmcbrideellis/stablediffusion-text-to-image-with-kerascv)
 * [Machine learning review papers on arXiv [polars]](https://www.kaggle.com/code/carlmcbrideellis/machine-learning-review-papers-on-arxiv-polars)
-* [[Gemma] I am replacing myself with an LLM](https://www.kaggle.com/code/carlmcbrideellis/gemma-i-am-replacing-myself-with-an-llm)
 
 **Geospatial analysis**
 * [Choropleth map of kaggle Grandmaster locations](https://www.kaggle.com/carlmcbrideellis/choropleth-map-of-kaggle-grandmaster-locations)
@@ -155,7 +159,7 @@ This is a collection of my python example scripts for either classification, usi
 
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> fun with the Meta Kaggle dataset </center>
+#  <center style="background-color:Gainsboro; width:80%;"> fun with the meta kaggle dataset </center>
 The [Meta Kaggle](https://www.kaggle.com/kaggle/meta-kaggle) dataset consists of data regarding the kaggle site 
 * [Kaggle in numbers](https://www.kaggle.com/carlmcbrideellis/kaggle-in-numbers) - updated almost daily
 * [Simple EDA of kaggle Grandmasters](https://www.kaggle.com/code/carlmcbrideellis/simple-eda-of-kaggle-grandmasters-scheduled)  - updated almost daily
