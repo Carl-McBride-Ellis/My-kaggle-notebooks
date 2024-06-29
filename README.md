@@ -6,6 +6,7 @@ The following represents a selection of my kaggle notebooks
 * [Anscombe's quartet and the importance of EDA](https://www.kaggle.com/carlmcbrideellis/anscombe-s-quartet-and-the-importance-of-eda) (+ [dataset](https://www.kaggle.com/carlmcbrideellis/data-anscombes-quartet))
 * [Absolute beginners Titanic 'EDA' using dabl](https://www.kaggle.com/carlmcbrideellis/absolute-beginners-titanic-eda-using-dabl)
 * [Exploratory data analysis using pandas pivot table](https://www.kaggle.com/carlmcbrideellis/exploratory-data-analysis-using-pandas-pivot-table)
+* [Pearson correlation coefficient, mutual information (MI) and Predictive Power Score (PPS)](https://www.kaggle.com/code/carlmcbrideellis/pearson-mutual-information-and-predictive-power) - a simple comparison
 * Use case example: [Jane Street: EDA of day 0 and feature importance](https://www.kaggle.com/carlmcbrideellis/jane-street-eda-of-day-0-and-feature-importance)
 * Use case example: [Riiid: EDA and feature importance](https://www.kaggle.com/carlmcbrideellis/riiid-eda-and-feature-importance)
 * Use case example: [Ventilator Pressure: EDA and simple submission](https://www.kaggle.com/carlmcbrideellis/ventilator-pressure-eda-and-simple-submission)
@@ -17,29 +18,9 @@ The following represents a selection of my kaggle notebooks
 * [AWS PyDeequ unit tests to measure data quality](https://www.kaggle.com/code/carlmcbrideellis/aws-pydeequ-unit-tests-to-measure-data-quality)
 * [Naïve Dataset Distillation](https://www.kaggle.com/code/carlmcbrideellis/ps-s3-e21-na-ve-dataset-distillation)
 
-#  <center style="background-color:Gainsboro; width:80%;">  3. baselines</center>
-An important practice is to create a baseline with which to compare future work against:
-* Titanic: Machine Learning from Disaster: [Titanic baseline: an all zeros csv file](https://www.kaggle.com/carlmcbrideellis/titanic-all-zeros-csv-file)
-* House Prices: [Create a House Prices baseline score (0.42577)](https://www.kaggle.com/carlmcbrideellis/create-a-house-prices-baseline-score-0-42577)
-* OpenVaccine: COVID-19: [Baseline: mean values + Gaussian noise ≈ 0.495](https://www.kaggle.com/carlmcbrideellis/baseline-mean-values-gaussian-noise-0-495)
-* Mechanisms of Action (MoA) Prediction: [MoA Baseline = 0.02398 (∀ 0's = 0.13073)](https://www.kaggle.com/carlmcbrideellis/moa-baseline-0-02398-0-s-0-13073)
-* INGV - Volcanic Eruption Prediction: [The mean volcano](https://www.kaggle.com/carlmcbrideellis/baseline-the-mean-volcano)
-* Jane Street Market Prediction: [A random walk down Jane Street...](https://www.kaggle.com/carlmcbrideellis/baseline-a-random-walk-down-jane-street)
-* Store Sales - Time Series Forecasting: [Store Sales: Using the average of the last 16 days](https://www.kaggle.com/carlmcbrideellis/store-sales-using-the-average-of-the-last-16-days)
-* [UltraMNIST baseline: All class 20](https://www.kaggle.com/carlmcbrideellis/ultramnist-baseline-all-class-20)
-
-#  <center style="background-color:Gainsboro; width:80%;"> 4. feature selection / engineering </center>
-* [Feature importance using the LASSO](https://www.kaggle.com/carlmcbrideellis/feature-importance-using-the-lasso)
-* [Feature selection using the Boruta-SHAP package](https://www.kaggle.com/carlmcbrideellis/feature-selection-using-the-boruta-shap-package)
-* [Recursive Feature Elimination (RFE) example](https://www.kaggle.com/carlmcbrideellis/recursive-feature-elimination-rfe-example)
-* [House Prices: Permutation Importance example](https://www.kaggle.com/carlmcbrideellis/house-prices-permutation-importance-example)
-* [SHAP Permutation explainer + random "probe"](https://www.kaggle.com/code/carlmcbrideellis/shap-permutation-explainer-random-probe)
-* [What is Adversarial Validation?](https://www.kaggle.com/carlmcbrideellis/what-is-adversarial-validation)
-* [Jane Street: t-SNE using RAPIDS cuML](https://www.kaggle.com/carlmcbrideellis/jane-street-t-sne-using-rapids-cuml)
-* [Synthanic feature engineering: Beware!](https://www.kaggle.com/carlmcbrideellis/synthanic-feature-engineering-beware)
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> 5. classification / regression </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 3. classification / regression </center>
 
 This is a collection of my python example scripts for either classification, using the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) competition data, or regression, for which I use the [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) competition data:
 
@@ -64,15 +45,25 @@ This is a collection of my python example scripts for either classification, usi
 * [PyTorch Tabular: Gated Additive Tree Ensemble](https://www.kaggle.com/code/carlmcbrideellis/pytorch-tabular-gated-additive-tree-ensemble)
 
 
-#  <center style="background-color:Gainsboro; width:80%;">  6. conformal prediction</center>
+#  <center style="background-color:Gainsboro; width:80%;">  4. conformal prediction</center>
 
 * [Regression prediction intervals with MAPIE](https://www.kaggle.com/code/carlmcbrideellis/regression-prediction-intervals-with-mapie)
 * [Prediction intervals: Quantile Regression Forests](https://www.kaggle.com/code/carlmcbrideellis/prediction-intervals-quantile-regression-forests)
 * [Locally-weighted conformal regression](https://www.kaggle.com/code/carlmcbrideellis/locally-weighted-conformal-regression)
 * [Classifier probability calibration using Venn-ABERS predictors](https://www.kaggle.com/code/carlmcbrideellis/classifier-calibration-using-venn-abers) (winner of the [Gabriel Preda "Best recent Kaggle Notebook" prize](https://www.kaggle.com/discussions/general/469919))
 
+#  <center style="background-color:Gainsboro; width:80%;"> 5. feature selection / engineering </center>
+* [Feature importance using the LASSO](https://www.kaggle.com/carlmcbrideellis/feature-importance-using-the-lasso)
+* [Feature selection using the Boruta-SHAP package](https://www.kaggle.com/carlmcbrideellis/feature-selection-using-the-boruta-shap-package)
+* [Recursive Feature Elimination (RFE) example](https://www.kaggle.com/carlmcbrideellis/recursive-feature-elimination-rfe-example)
+* [House Prices: Permutation Importance example](https://www.kaggle.com/carlmcbrideellis/house-prices-permutation-importance-example)
+* [SHAP Permutation explainer + random "probe"](https://www.kaggle.com/code/carlmcbrideellis/shap-permutation-explainer-random-probe)
+* [What is Adversarial Validation?](https://www.kaggle.com/carlmcbrideellis/what-is-adversarial-validation)
+* [Jane Street: t-SNE using RAPIDS cuML](https://www.kaggle.com/carlmcbrideellis/jane-street-t-sne-using-rapids-cuml)
+* [Synthanic feature engineering: Beware!](https://www.kaggle.com/carlmcbrideellis/synthanic-feature-engineering-beware)
 
-#  <center style="background-color:Gainsboro; width:80%;">  7. time series and forecasting</center>
+
+#  <center style="background-color:Gainsboro; width:80%;">  6. time series and forecasting</center>
 
 * [Time series: A simple moving average (MA) model](https://www.kaggle.com/carlmcbrideellis/time-series-a-simple-moving-average-ma-model)
 * [Time series decomposition: Naive example](https://www.kaggle.com/carlmcbrideellis/time-series-decomposition-naive-example)
@@ -94,13 +85,14 @@ This is a collection of my python example scripts for either classification, usi
 
 
 
-# <center style="background-color:Gainsboro; width:80%;">  8. ensemble methods </center>
+# <center style="background-color:Gainsboro; width:80%;">  7. ensemble methods </center>
 
 * [Ensemble methods: majority voting example](https://www.kaggle.com/carlmcbrideellis/ensemble-methods-majority-voting-example)
 * [ML-Ensemble example using House Prices data](https://www.kaggle.com/carlmcbrideellis/ml-ensemble-example-using-house-prices-data)
 * [Stacking ensemble using the House Prices data](https://www.kaggle.com/carlmcbrideellis/stacking-ensemble-using-the-house-prices-data)
+* [Ensembling: Convex combination of model predictions (CCMP) and the `hillclimbers` package](https://www.kaggle.com/code/carlmcbrideellis/ensembling-ccmp-and-the-hillclimbers-package)
 
-# <center style="background-color:Gainsboro; width:80%;"> 9. explainability  </center>
+# <center style="background-color:Gainsboro; width:80%;"> 8. explainability  </center>
 * [Explainability, collinearity and the variance inflation factor (VIF)](https://www.kaggle.com/code/carlmcbrideellis/variance-inflation-factor-vif-and-explainability)
 * [KISS: Small and simple Titanic models](https://www.kaggle.com/carlmcbrideellis/kiss-small-and-simple-titanic-models)
 * [House Prices: my score using only 'OverallQual'](https://www.kaggle.com/carlmcbrideellis/house-prices-my-score-using-only-overallqual) and also a [simple two variable model](https://www.kaggle.com/carlmcbrideellis/simple-two-variable-model)
@@ -108,16 +100,16 @@ This is a collection of my python example scripts for either classification, usi
 * [TabNet and interpretability: Jane Street example](https://www.kaggle.com/carlmcbrideellis/tabnet-and-interpretability-jane-street-example)
 * [GPU accelerated SHAP values: Jane Street example](https://www.kaggle.com/carlmcbrideellis/gpu-accelerated-shap-values-jane-street-example)
 
-#  <center style="background-color:Gainsboro; width:80%;">  10. causality</center>
+#  <center style="background-color:Gainsboro; width:80%;">  9. causality</center>
 * [Causal Forests Double ML example using EconML](https://www.kaggle.com/carlmcbrideellis/causal-forests-double-ml-example-using-econml)
 * [Interrupted time series analysis: Causal Impact](https://www.kaggle.com/carlmcbrideellis/interrupted-time-series-analysis-causal-impact)
 
-#  <center style="background-color:Gainsboro; width:80%;"> 11. statistics </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 10. statistics </center>
 * [Animated histogram of the central limit theorem](https://www.kaggle.com/carlmcbrideellis/animated-histogram-of-the-central-limit-theorem)
 * [Hypothesis testing: The two sample t-test, p-value and power](https://www.kaggle.com/carlmcbrideellis/hypothesis-testing-the-t-test-p-values-and-power)
 * [Explainability, collinearity and the variance inflation factor (VIF)](https://www.kaggle.com/carlmcbrideellis/explainability-collinearity-and-the-vif)
 
-#  <center style="background-color:Gainsboro; width:80%;">12. didactic notebooks  </center>
+#  <center style="background-color:Gainsboro; width:80%;">11. didactic notebooks  </center>
 * [Beautiful math in your notebook](https://www.kaggle.com/carlmcbrideellis/beautiful-math-in-your-notebook): a guide to using $\LaTeX$ math markup in kaggle notebooks.
 * [Titanic: In all the confusion...](https://www.kaggle.com/carlmcbrideellis/titanic-in-all-the-confusion) which looks at the confusion matrix, ROC curves, $F_1$ scores etc.
 * [Classification: How imbalanced is "imbalanced"?](https://www.kaggle.com/carlmcbrideellis/classification-how-imbalanced-is-imbalanced) - (mentioned in ["*Notebooks of the week: Hidden Gems*"](https://www.kaggle.com/general/273618))
@@ -127,15 +119,14 @@ This is a collection of my python example scripts for either classification, usi
 * [Extrapolation: Do not stray out of the forest!](https://www.kaggle.com/carlmcbrideellis/extrapolation-do-not-stray-out-of-the-forest)
 * [Titanic: some sex, a bit of class, and a tree...](https://www.kaggle.com/carlmcbrideellis/titanic-some-sex-a-bit-of-class-and-a-tree)
 * [The Lehmer RNG algorithm for `seed=42`](https://www.kaggle.com/code/carlmcbrideellis/the-lehmer-rng-algorithm-for-seed-42)
-* [Pearson correlation coefficient, mutual information (MI) and Predictive Power Score (PPS)](https://www.kaggle.com/code/carlmcbrideellis/pearson-mutual-information-and-predictive-power) - a simple comparison
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> 13. generative AI </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 12. generative AI </center>
 * [StableDiffusion: text-to-image with KerasCV](https://www.kaggle.com/code/carlmcbrideellis/stablediffusion-text-to-image-with-kerascv)
 * [[Gemma] I am replacing myself with an LLM](https://www.kaggle.com/code/carlmcbrideellis/gemma-i-am-replacing-myself-with-an-llm)
 
 
-#  <center style="background-color:Gainsboro; width:80%;"> 14. miscellaneous </center>
+#  <center style="background-color:Gainsboro; width:80%;"> 13. miscellaneous </center>
 * [Titanic leaderboard: a score > 0.8 is great!](https://www.kaggle.com/carlmcbrideellis/titanic-leaderboard-a-score-0-8-is-great)
 * [House Prices: How to work offline](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline) (+ [dataset](https://www.kaggle.com/carlmcbrideellis/house-prices-how-to-work-offline))
 * [Pandas one-liners](https://www.kaggle.com/carlmcbrideellis/pandas-one-liners)
